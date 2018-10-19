@@ -1,3 +1,3 @@
 # codewars.com
 
-Solutions: JavaScript
+My solutions: JavaScript
