@@ -1,1 +1,3 @@
-# codewars_solutions_JS
+# codewars.com
+
+Solutions: JavaScript
