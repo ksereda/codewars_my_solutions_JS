@@ -10,6 +10,6 @@ For example, when an array is passed like [19, 5, 42, 2, 77], the output should 
 
 
 function sumTwoSmallestNumbers(numbers) {  
-  var [ a, b ] = numbers.sort((a, b) => a - b)        -   сортируем массив по возрастанию
+  var [ a, b ] = numbers.sort((a, b) => a - b);
   return a + b
 }
